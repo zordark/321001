@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
+using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
@@ -18,13 +19,16 @@ namespace ControlPointOne
         [STAThread]
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.Unicode;
-          
+           
+            Console.OutputEncoding = Encoding.UTF8;
+           
             try
             {
 
                 var buffer = (string)Clipboard.GetDataObject()
-                                                 .GetData(DataFormats.Text);
+                                                 .GetData(DataFormats.UnicodeText);
+
+
                 if (buffer == null)
                 {
                     Console.WriteLine("Cilpboard is empty");
@@ -33,6 +37,8 @@ namespace ControlPointOne
 
                 var words = buffer.Replace('\n', ' ')
                      .Replace('\r', ' ')
+                     .Replace('(', ' ')
+                     .Replace(')', ' ')
                      .Replace('\t', ' ')
                      .Replace('\t', ' ')
                      .Replace('\"', ' ')
