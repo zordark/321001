@@ -1,0 +1,4 @@
+c:\users\sergey\documents\visual studio 2010\Projects\MyHomeWork1\MyHomeWork1\bin\Debug\MyHomeWork1.exe
+c:\users\sergey\documents\visual studio 2010\Projects\MyHomeWork1\MyHomeWork1\bin\Debug\MyHomeWork1.pdb
+c:\users\sergey\documents\visual studio 2010\Projects\MyHomeWork1\MyHomeWork1\obj\x86\Debug\MyHomeWork1.exe
+c:\users\sergey\documents\visual studio 2010\Projects\MyHomeWork1\MyHomeWork1\obj\x86\Debug\MyHomeWork1.pdb
