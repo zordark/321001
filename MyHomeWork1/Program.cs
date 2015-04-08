@@ -12,11 +12,13 @@ namespace MyHomeWork1
         [STAThread]
         static void Main(string[] args)
         {
+            
+            Console.OutputEncoding = Encoding.UTF8;
             string txt;
             ConvertText converter;
             int count = 1;
             Console.WriteLine("Скопируйте в буфер обмена текст. И нажмите Enter. Для выхода нажмите Escape.");
-            txt = (String)Clipboard.GetData(DataFormats.UnicodeText); ; // вытаскиваем из буфера текст
+            txt = (String)Clipboard.GetData(DataFormats.UnicodeText); // вытаскиваем из буфера текст
             do
             {
 
