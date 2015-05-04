@@ -1,0 +1,8 @@
+C:\Users\Маша\Documents\Visual Studio 2010\Projects\1000words\1000words\bin\Debug\1000words.exe
+C:\Users\Маша\Documents\Visual Studio 2010\Projects\1000words\1000words\bin\Debug\1000words.pdb
+C:\Users\Маша\Documents\Visual Studio 2010\Projects\1000words\1000words\obj\x86\Debug\1000words.exe
+C:\Users\Маша\Documents\Visual Studio 2010\Projects\1000words\1000words\obj\x86\Debug\1000words.pdb
+C:\Users\Зак\Documents\Visual Studio 2010\Projects\1000words\1000words\obj\x86\Debug\1000words.exe
+C:\Users\Зак\Documents\Visual Studio 2010\Projects\1000words\1000words\obj\x86\Debug\1000words.pdb
+C:\Users\Зак\Documents\Visual Studio 2010\Projects\1000words\1000words\bin\Debug\1000words.exe
+C:\Users\Зак\Documents\Visual Studio 2010\Projects\1000words\1000words\bin\Debug\1000words.pdb
