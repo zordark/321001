@@ -1,0 +1,6 @@
+c:\users\mrequ\documents\visual studio 2013\Projects\ExternalSort\ExternalSort\bin\Debug\ExternalSort.exe.config
+c:\users\mrequ\documents\visual studio 2013\Projects\ExternalSort\ExternalSort\obj\Debug\ExternalSort.csprojResolveAssemblyReference.cache
+c:\users\mrequ\documents\visual studio 2013\Projects\ExternalSort\ExternalSort\bin\Debug\ExternalSort.exe
+c:\users\mrequ\documents\visual studio 2013\Projects\ExternalSort\ExternalSort\bin\Debug\ExternalSort.pdb
+c:\users\mrequ\documents\visual studio 2013\Projects\ExternalSort\ExternalSort\obj\Debug\ExternalSort.exe
+c:\users\mrequ\documents\visual studio 2013\Projects\ExternalSort\ExternalSort\obj\Debug\ExternalSort.pdb
