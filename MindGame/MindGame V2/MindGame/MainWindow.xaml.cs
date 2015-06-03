@@ -229,7 +229,7 @@ namespace MindGame
 
         void AnimationMove(GameParticipant obj, Point new_Index_Position) // воспроизводим анимацию передвижения
         {
-            Dispatcher.BeginInvoke(new ThreadStart(delegate // принужденно вызываем исполнение потока
+            Dispatcher.BeginInvoke(new Action(delegate // принужденно вызываем исполнение потока
             {
 
                 Point new_Position = ScreenPosition(new_Index_Position);
@@ -246,7 +246,7 @@ namespace MindGame
         void AnimationDeath(GameParticipant obj)
         {
 
-            Dispatcher.BeginInvoke(new ThreadStart(delegate
+            Dispatcher.BeginInvoke(new Action(delegate
            {
 
 
@@ -270,7 +270,7 @@ namespace MindGame
 
         void ShootAnimation(GameParticipant obj, GameParticipant obj2)
         {
-            Dispatcher.BeginInvoke(new ThreadStart(delegate
+            Dispatcher.BeginInvoke(new Action(delegate
             {
 
                 Point start = ScreenPosition(obj.Table_position);
@@ -574,6 +574,12 @@ namespace MindGame
            
             CreateGame();
             mutex = new Mutex(false, "");
+            
+            if (game != null )
+            {
+                game.Dispose(); 
+            }
+            
             game = new BackgroundWorker();
             game.DoWork += new DoWorkEventHandler(WorkGame);
             game.WorkerReportsProgress = true;
@@ -589,7 +595,7 @@ namespace MindGame
 
             do
             {
-                Dispatcher.BeginInvoke(new ThreadStart(delegate
+                Dispatcher.BeginInvoke(new Action(delegate
             {
                 Steps_Change();
             }));
@@ -647,7 +653,7 @@ namespace MindGame
 
         void BlockUI() // блокировка интерфейса
         {
-            Dispatcher.BeginInvoke(new ThreadStart(delegate
+            Dispatcher.BeginInvoke(new Action(delegate
             {
                 button1.IsEnabled = false;
                 GameField.IsEnabled = false;
@@ -659,7 +665,7 @@ namespace MindGame
 
         void UnblocUI() // разблокировка интерфейса
         {
-            Dispatcher.BeginInvoke(new ThreadStart(delegate
+            Dispatcher.BeginInvoke(new Action(delegate
             {
                 button1.IsEnabled = true;
                 GameField.IsEnabled = true;
