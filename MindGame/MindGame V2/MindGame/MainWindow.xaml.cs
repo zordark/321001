@@ -577,12 +577,13 @@ namespace MindGame
             
             if (game != null )
             {
-                game.Dispose(); 
+                game.CancelAsync();
             }
             
             game = new BackgroundWorker();
             game.DoWork += new DoWorkEventHandler(WorkGame);
             game.WorkerReportsProgress = true;
+            game.WorkerSupportsCancellation = true;
             game.RunWorkerAsync();
         }
 
@@ -606,6 +607,8 @@ namespace MindGame
 
                 while (!EndMove && GameActive) // пока игрок не завершит ход
                 {
+                    if (game.CancellationPending)
+                        return; 
                 }
 
 
