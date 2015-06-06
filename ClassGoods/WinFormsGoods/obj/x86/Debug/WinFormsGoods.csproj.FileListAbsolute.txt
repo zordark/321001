@@ -1,0 +1,12 @@
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WinFormsGoods\bin\Debug\WinFormsGoods.exe
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WinFormsGoods\bin\Debug\WinFormsGoods.pdb
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WinFormsGoods\obj\x86\Debug\WinFormsGoods.Form1.resources
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WinFormsGoods\obj\x86\Debug\WinFormsGoods.Properties.Resources.resources
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WinFormsGoods\obj\x86\Debug\WinFormsGoods.csproj.GenerateResource.Cache
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WinFormsGoods\obj\x86\Debug\WinFormsGoods.exe
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WinFormsGoods\obj\x86\Debug\WinFormsGoods.pdb
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WinFormsGoods\bin\Debug\ClassGoods.dll
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WinFormsGoods\bin\Debug\ClassGoods.pdb
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WinFormsGoods\obj\x86\Debug\WinFormsGoods.csprojResolveAssemblyReference.cache
+H:\NET\ClassGoods\WinFormsGoods\obj\x86\Debug\WinFormsGoods.exe
+H:\NET\ClassGoods\WinFormsGoods\obj\x86\Debug\WinFormsGoods.pdb

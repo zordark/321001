@@ -1,0 +1,4 @@
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\ClassGoods\bin\Debug\ClassGoods.dll
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\ClassGoods\bin\Debug\ClassGoods.pdb
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\ClassGoods\obj\Debug\ClassGoods.dll
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\ClassGoods\obj\Debug\ClassGoods.pdb

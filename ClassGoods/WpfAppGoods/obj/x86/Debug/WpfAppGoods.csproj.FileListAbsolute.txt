@@ -1,0 +1,28 @@
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WpfAppGoods\bin\Debug\WpfAppGoods.exe
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WpfAppGoods\bin\Debug\WpfAppGoods.pdb
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WpfAppGoods\obj\x86\Debug\MainWindow.baml
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WpfAppGoods\obj\x86\Debug\MainWindow.g.cs
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WpfAppGoods\obj\x86\Debug\App.g.cs
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WpfAppGoods\obj\x86\Debug\WpfAppGoods_MarkupCompile.cache
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WpfAppGoods\obj\x86\Debug\WpfAppGoods.g.resources
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WpfAppGoods\obj\x86\Debug\WpfAppGoods.Properties.Resources.resources
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WpfAppGoods\obj\x86\Debug\WpfAppGoods.csproj.GenerateResource.Cache
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WpfAppGoods\obj\x86\Debug\WpfAppGoods.exe
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WpfAppGoods\obj\x86\Debug\WpfAppGoods.pdb
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WpfAppGoods\bin\Debug\ClassGoods.dll
+c:\users\мария\documents\visual studio 2010\Projects\ClassGoods\WpfAppGoods\bin\Debug\ClassGoods.pdb
+C:\Users\Мария\Documents\Visual Studio 2010\Projects\ClassGoods\WpfAppGoods\obj\x86\Debug\WpfAppGoods.csprojResolveAssemblyReference.cache
+H:\NET\ClassGoods\WpfAppGoods\bin\Debug\WpfAppGoods.exe
+H:\NET\ClassGoods\WpfAppGoods\bin\Debug\WpfAppGoods.pdb
+H:\NET\ClassGoods\WpfAppGoods\bin\Debug\ClassGoods.dll
+H:\NET\ClassGoods\WpfAppGoods\bin\Debug\ClassGoods.pdb
+H:\NET\ClassGoods\WpfAppGoods\obj\x86\Debug\WpfAppGoods.csprojResolveAssemblyReference.cache
+H:\NET\ClassGoods\WpfAppGoods\obj\x86\Debug\MainWindow.baml
+H:\NET\ClassGoods\WpfAppGoods\obj\x86\Debug\MainWindow.g.cs
+H:\NET\ClassGoods\WpfAppGoods\obj\x86\Debug\App.g.cs
+H:\NET\ClassGoods\WpfAppGoods\obj\x86\Debug\WpfAppGoods_MarkupCompile.cache
+H:\NET\ClassGoods\WpfAppGoods\obj\x86\Debug\WpfAppGoods.g.resources
+H:\NET\ClassGoods\WpfAppGoods\obj\x86\Debug\WpfAppGoods.Properties.Resources.resources
+H:\NET\ClassGoods\WpfAppGoods\obj\x86\Debug\WpfAppGoods.csproj.GenerateResource.Cache
+H:\NET\ClassGoods\WpfAppGoods\obj\x86\Debug\WpfAppGoods.exe
+H:\NET\ClassGoods\WpfAppGoods\obj\x86\Debug\WpfAppGoods.pdb

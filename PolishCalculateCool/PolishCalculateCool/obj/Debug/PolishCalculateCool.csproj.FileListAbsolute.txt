@@ -1,0 +1,4 @@
+c:\users\мария\documents\visual studio 2010\Projects\PolishCalculateCool\PolishCalculateCool\bin\Debug\PolishCalculateCool.dll
+c:\users\мария\documents\visual studio 2010\Projects\PolishCalculateCool\PolishCalculateCool\bin\Debug\PolishCalculateCool.pdb
+c:\users\мария\documents\visual studio 2010\Projects\PolishCalculateCool\PolishCalculateCool\obj\Debug\PolishCalculateCool.dll
+c:\users\мария\documents\visual studio 2010\Projects\PolishCalculateCool\PolishCalculateCool\obj\Debug\PolishCalculateCool.pdb
