@@ -24,7 +24,6 @@ namespace MyGame
             _bufferedGraphicsContext = new BufferedGraphicsContext();
             _bufferedGraphics = _bufferedGraphicsContext.Allocate(_gr, new Rectangle(0, 0, DrawArea.Width, DrawArea.Height));
             _gameContr = new GameController(DrawArea, _bufferedGraphics, (int)(DrawArea.Size.Width / 50), (int)(DrawArea.Size.Height / 50));
-
 			WeaponDescription.Text = _gameContr.Player.WeaponProp.Description;
         }
 
