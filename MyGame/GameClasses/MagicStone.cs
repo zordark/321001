@@ -39,11 +39,35 @@ namespace MyGame.GameClasses
             }
         }
 
+		public string Description
+		{
+			get { return _description; }
+			set 
+			{
+				_description = "";
+				if(_type == StoneType.ARMOR)
+				{
+					_description += "Магический камень защиты.\n";
+					_description += "Позволяет игроку пережить одно попадание врага, после чего разрушается\n";
+				}
+				if (_type == StoneType.ATTACK)
+				{
+					_description += "Магический камень атаки.\n";
+					_description += "Увеличивает радиус атаки игрока на 1.\n";
+				}
+				if (_type == StoneType.SPEED)
+				{
+					_description += "Магический камень скорости.\n";
+					_description += "Позволяет игроку делать 2 шага за 1 ход.\n";
+				}
+			}
+		}
+
         public MagicStone(StoneType type)
 		{ 
 			_type = type;
             StoneView = _gameObjView = new Bitmap(1, 1);
-			
+			Description = "";
 		}
 	}
 }

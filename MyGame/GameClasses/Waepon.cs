@@ -23,6 +23,12 @@ namespace MyGame.GameClasses
 		// Тип оружия
 		private WeaponType _type;
 
+		public WeaponType Type
+		{
+			get { return _type; }
+			set { _type = value; }
+		}
+
 		// Изображение оружия
 		public Image WeaponView
 		{
@@ -43,10 +49,30 @@ namespace MyGame.GameClasses
 			private set{_radius = value;}
 		}
 
-		public WeaponType Type
+		public string Description
 		{
-			get { return _type; }
-			set { _type = value; }
+			get { return _description; }
+			set
+			{
+				_description = "";
+				if (_type == WeaponType.KNIFE)
+				{
+					_description += "Тип: Нож.\n";
+				}
+				if (_type == WeaponType.MAGIC_STAFF)
+				{
+					_description += "Тип: Магический посох.\n";
+				}
+				if (_type == WeaponType.SPEAR)
+				{
+					_description += "Тип: Копье.\n";
+				}
+				if (_type == WeaponType.SWORD)
+				{
+					_description += "Тип: Меч.\n";
+				}
+				_description += "Радтус атаки:" + _radius;
+			}				 
 		}
 
 		public Weapon(WeaponType type)
@@ -54,6 +80,7 @@ namespace MyGame.GameClasses
 			_radius= (int)type + 2;
 			_type = type;
 			WeaponView = new Bitmap(1, 1);
+			Description = "";
 		}
 	}
 }

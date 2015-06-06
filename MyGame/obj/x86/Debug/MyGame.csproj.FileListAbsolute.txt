@@ -13,3 +13,11 @@ C:\Users\Зак\Documents\Visual Studio 2010\Projects\Курс .Net\MyGame\MyGam
 C:\Users\Зак\Documents\Visual Studio 2010\Projects\Курс .Net\MyGame\MyGame\obj\x86\Debug\MyGame.Form1.resources
 C:\Users\Зак\Documents\Visual Studio 2010\Projects\Курс .Net\MyGame\MyGame\obj\x86\Debug\MyGame.Properties.Resources.resources
 C:\Users\Зак\Documents\Visual Studio 2010\Projects\Курс .Net\MyGame\MyGame\obj\x86\Debug\MyGame.csproj.GenerateResource.Cache
+C:\Users\Зак\Documents\321001\MyGame\obj\x86\Debug\MyGame.exe
+C:\Users\Зак\Documents\321001\MyGame\obj\x86\Debug\MyGame.pdb
+C:\Users\Зак\Documents\321001\MyGame\bin\Debug\MyGame.exe
+C:\Users\Зак\Documents\321001\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Зак\Documents\321001\MyGame\obj\x86\Debug\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\Зак\Documents\321001\MyGame\obj\x86\Debug\MyGame.Form1.resources
+C:\Users\Зак\Documents\321001\MyGame\obj\x86\Debug\MyGame.Properties.Resources.resources
+C:\Users\Зак\Documents\321001\MyGame\obj\x86\Debug\MyGame.csproj.GenerateResource.Cache

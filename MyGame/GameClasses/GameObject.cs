@@ -16,10 +16,7 @@ namespace MyGame.GameClasses
 		protected Image _gameObjView;
 
 		// Описание объекта
-		public List<string> Description
-		{
-			get; private set;
-		}
+		protected string _description;
 
 		/// <summary>
 		///  Метод Draw занимается отрисовкой игровых объектов на графике
