@@ -1,0 +1,10 @@
+c:\users\мария\documents\visual studio 2010\Projects\PolishCalculateCool\WindowsFormsCalculatePolishCool\obj\x86\Debug\WindowsFormsCalculatePolishCool.csprojResolveAssemblyReference.cache
+c:\users\мария\documents\visual studio 2010\Projects\PolishCalculateCool\WindowsFormsCalculatePolishCool\obj\x86\Debug\WindowsFormsCalculatePolishCool.Form1.resources
+c:\users\мария\documents\visual studio 2010\Projects\PolishCalculateCool\WindowsFormsCalculatePolishCool\obj\x86\Debug\WindowsFormsCalculatePolishCool.Properties.Resources.resources
+c:\users\мария\documents\visual studio 2010\Projects\PolishCalculateCool\WindowsFormsCalculatePolishCool\obj\x86\Debug\WindowsFormsCalculatePolishCool.csproj.GenerateResource.Cache
+c:\users\мария\documents\visual studio 2010\Projects\PolishCalculateCool\WindowsFormsCalculatePolishCool\bin\Debug\WindowsFormsCalculatePolishCool.exe
+c:\users\мария\documents\visual studio 2010\Projects\PolishCalculateCool\WindowsFormsCalculatePolishCool\bin\Debug\WindowsFormsCalculatePolishCool.pdb
+c:\users\мария\documents\visual studio 2010\Projects\PolishCalculateCool\WindowsFormsCalculatePolishCool\bin\Debug\PolishCalculateCool.dll
+c:\users\мария\documents\visual studio 2010\Projects\PolishCalculateCool\WindowsFormsCalculatePolishCool\bin\Debug\PolishCalculateCool.pdb
+c:\users\мария\documents\visual studio 2010\Projects\PolishCalculateCool\WindowsFormsCalculatePolishCool\obj\x86\Debug\WindowsFormsCalculatePolishCool.exe
+c:\users\мария\documents\visual studio 2010\Projects\PolishCalculateCool\WindowsFormsCalculatePolishCool\obj\x86\Debug\WindowsFormsCalculatePolishCool.pdb
