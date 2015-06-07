@@ -1,0 +1,9 @@
+c:\users\mrequ\documents\visual studio 2013\Projects\ControlPointOne\ControlPointOne\bin\Debug\ControlPointOne.exe.config
+c:\users\mrequ\documents\visual studio 2013\Projects\ControlPointOne\ControlPointOne\bin\Debug\ControlPointOne.exe
+c:\users\mrequ\documents\visual studio 2013\Projects\ControlPointOne\ControlPointOne\bin\Debug\ControlPointOne.pdb
+c:\users\mrequ\documents\visual studio 2013\Projects\ControlPointOne\ControlPointOne\obj\Debug\ControlPointOne.csprojResolveAssemblyReference.cache
+c:\users\mrequ\documents\visual studio 2013\Projects\ControlPointOne\ControlPointOne\obj\Debug\ControlPointOne.exe
+c:\users\mrequ\documents\visual studio 2013\Projects\ControlPointOne\ControlPointOne\obj\Debug\ControlPointOne.pdb
+C:\Users\mrequ\Documents\Visual Studio 2013\Projects\BayramovEmir_work1\ControlPointOne\bin\Debug\ControlPointOne.exe.config
+C:\Users\mrequ\Documents\Visual Studio 2013\Projects\BayramovEmir_work1\ControlPointOne\obj\Debug\ControlPointOne.exe
+C:\Users\mrequ\Documents\Visual Studio 2013\Projects\BayramovEmir_work1\ControlPointOne\obj\Debug\ControlPointOne.pdb
