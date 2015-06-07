@@ -163,7 +163,9 @@ namespace BugRacer
             if (int.TryParse(textBox1.Text, out amount))
                 if(amount == 0)
                     MessageBox.Show("Нельзя поставит 0 рублей");
-                else if (currentGambler.HasEnoughMoney(amount))
+                else if(bets.Count == 0)
+                    MessageBox.Show("Сделайте ставки");
+                else if(currentGambler.HasEnoughMoney(amount))
                 {
                     currentGambler.MakeBet(amount);
                     bets[currentGambler] = new Bet(currentGambler, currentBug, amount);
