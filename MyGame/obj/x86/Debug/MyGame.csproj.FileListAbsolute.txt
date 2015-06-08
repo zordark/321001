@@ -1,0 +1,23 @@
+c:\users\gaynullin_z_v\documents\visual studio 2010\Projects\MyGame\MyGame\bin\Debug\MyGame.exe
+c:\users\gaynullin_z_v\documents\visual studio 2010\Projects\MyGame\MyGame\bin\Debug\MyGame.pdb
+c:\users\gaynullin_z_v\documents\visual studio 2010\Projects\MyGame\MyGame\obj\x86\Debug\MyGame.Form1.resources
+c:\users\gaynullin_z_v\documents\visual studio 2010\Projects\MyGame\MyGame\obj\x86\Debug\MyGame.Properties.Resources.resources
+c:\users\gaynullin_z_v\documents\visual studio 2010\Projects\MyGame\MyGame\obj\x86\Debug\MyGame.csproj.GenerateResource.Cache
+c:\users\gaynullin_z_v\documents\visual studio 2010\Projects\MyGame\MyGame\obj\x86\Debug\MyGame.exe
+c:\users\gaynullin_z_v\documents\visual studio 2010\Projects\MyGame\MyGame\obj\x86\Debug\MyGame.pdb
+C:\Users\Зак\Documents\Visual Studio 2010\Projects\Курс .Net\MyGame\MyGame\obj\x86\Debug\MyGame.exe
+C:\Users\Зак\Documents\Visual Studio 2010\Projects\Курс .Net\MyGame\MyGame\obj\x86\Debug\MyGame.pdb
+C:\Users\Зак\Documents\Visual Studio 2010\Projects\Курс .Net\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\Зак\Documents\Visual Studio 2010\Projects\Курс .Net\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Зак\Documents\Visual Studio 2010\Projects\Курс .Net\MyGame\MyGame\obj\x86\Debug\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\Зак\Documents\Visual Studio 2010\Projects\Курс .Net\MyGame\MyGame\obj\x86\Debug\MyGame.Form1.resources
+C:\Users\Зак\Documents\Visual Studio 2010\Projects\Курс .Net\MyGame\MyGame\obj\x86\Debug\MyGame.Properties.Resources.resources
+C:\Users\Зак\Documents\Visual Studio 2010\Projects\Курс .Net\MyGame\MyGame\obj\x86\Debug\MyGame.csproj.GenerateResource.Cache
+C:\Users\Зак\Documents\321001\MyGame\obj\x86\Debug\MyGame.exe
+C:\Users\Зак\Documents\321001\MyGame\obj\x86\Debug\MyGame.pdb
+C:\Users\Зак\Documents\321001\MyGame\bin\Debug\MyGame.exe
+C:\Users\Зак\Documents\321001\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Зак\Documents\321001\MyGame\obj\x86\Debug\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\Зак\Documents\321001\MyGame\obj\x86\Debug\MyGame.Form1.resources
+C:\Users\Зак\Documents\321001\MyGame\obj\x86\Debug\MyGame.Properties.Resources.resources
+C:\Users\Зак\Documents\321001\MyGame\obj\x86\Debug\MyGame.csproj.GenerateResource.Cache
