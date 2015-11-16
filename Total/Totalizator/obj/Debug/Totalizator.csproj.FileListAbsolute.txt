@@ -1,0 +1,17 @@
+C:\Users\Роман\Desktop\BugRacer\BugRacer\bin\Debug\BugRacer.exe.config
+C:\Users\Роман\Desktop\BugRacer\BugRacer\bin\Debug\BugRacer.exe
+C:\Users\Роман\Desktop\BugRacer\BugRacer\bin\Debug\BugRacer.pdb
+C:\Users\Роман\Desktop\BugRacer\BugRacer\obj\Debug\BugRacer.BugRacerForm.resources
+C:\Users\Роман\Desktop\BugRacer\BugRacer\obj\Debug\BugRacer.Properties.Resources.resources
+C:\Users\Роман\Desktop\BugRacer\BugRacer\obj\Debug\Totalizator.csproj.GenerateResource.Cache
+C:\Users\Роман\Desktop\BugRacer\BugRacer\obj\Debug\BugRacer.exe
+C:\Users\Роман\Desktop\BugRacer\BugRacer\obj\Debug\BugRacer.pdb
+C:\Users\Роман\Desktop\BugRacer\Totalizator\bin\Debug\BugRacer.exe.config
+C:\Users\Роман\Desktop\BugRacer\Totalizator\obj\Debug\BugRacer.exe
+C:\Users\Роман\Desktop\BugRacer\Totalizator\obj\Debug\BugRacer.pdb
+C:\Users\Роман\Desktop\BugRacer\Totalizator\bin\Debug\BugRacer.exe
+C:\Users\Роман\Desktop\BugRacer\Totalizator\bin\Debug\BugRacer.pdb
+C:\Users\Роман\Desktop\BugRacer\Totalizator\obj\Debug\Totalizator.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\BugRacer\Totalizator\obj\Debug\BugRacer.BugRacerForm.resources
+C:\Users\Роман\Desktop\BugRacer\Totalizator\obj\Debug\BugRacer.Properties.Resources.resources
+C:\Users\Роман\Desktop\BugRacer\Totalizator\obj\Debug\Totalizator.csproj.GenerateResource.Cache

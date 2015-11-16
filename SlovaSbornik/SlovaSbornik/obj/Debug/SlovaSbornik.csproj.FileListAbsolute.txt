@@ -1,0 +1,12 @@
+C:\Users\Роман\Desktop\учеба\Кругликов А.С\трасировка\SlovaSbornik\SlovaSbornik\bin\Debug\SlovaSbornik.exe.config
+C:\Users\Роман\Desktop\учеба\Кругликов А.С\трасировка\SlovaSbornik\SlovaSbornik\bin\Debug\SlovaSbornik.exe
+C:\Users\Роман\Desktop\учеба\Кругликов А.С\трасировка\SlovaSbornik\SlovaSbornik\bin\Debug\SlovaSbornik.pdb
+C:\Users\Роман\Desktop\учеба\Кругликов А.С\трасировка\SlovaSbornik\SlovaSbornik\obj\Debug\SlovaSbornik.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\учеба\Кругликов А.С\трасировка\SlovaSbornik\SlovaSbornik\obj\Debug\SlovaSbornik.exe
+C:\Users\Роман\Desktop\учеба\Кругликов А.С\трасировка\SlovaSbornik\SlovaSbornik\obj\Debug\SlovaSbornik.pdb
+C:\Users\Роман\Desktop\321001-master\SlovaSbornik\SlovaSbornik\bin\Debug\SlovaSbornik.exe.config
+C:\Users\Роман\Desktop\321001-master\SlovaSbornik\SlovaSbornik\obj\Debug\SlovaSbornik.exe
+C:\Users\Роман\Desktop\321001-master\SlovaSbornik\SlovaSbornik\obj\Debug\SlovaSbornik.pdb
+C:\Users\Роман\Desktop\321001-master\SlovaSbornik\SlovaSbornik\bin\Debug\SlovaSbornik.exe
+C:\Users\Роман\Desktop\321001-master\SlovaSbornik\SlovaSbornik\bin\Debug\SlovaSbornik.pdb
+C:\Users\Роман\Desktop\321001-master\SlovaSbornik\SlovaSbornik\obj\Debug\SlovaSbornik.csprojResolveAssemblyReference.cache

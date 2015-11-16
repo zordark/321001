@@ -1,0 +1,46 @@
+c:\users\stud\documents\visual studio 2010\Projects\StepGame\StepGame\bin\Debug\StepGame.exe
+c:\users\stud\documents\visual studio 2010\Projects\StepGame\StepGame\bin\Debug\StepGame.pdb
+c:\users\stud\documents\visual studio 2010\Projects\StepGame\StepGame\obj\x86\Debug\StepGame.Form1.resources
+c:\users\stud\documents\visual studio 2010\Projects\StepGame\StepGame\obj\x86\Debug\StepGame.Properties.Resources.resources
+c:\users\stud\documents\visual studio 2010\Projects\StepGame\StepGame\obj\x86\Debug\StepGame.csproj.GenerateResource.Cache
+c:\users\stud\documents\visual studio 2010\Projects\StepGame\StepGame\obj\x86\Debug\StepGame.exe
+c:\users\stud\documents\visual studio 2010\Projects\StepGame\StepGame\obj\x86\Debug\StepGame.pdb
+H:\StepGame\StepGame\obj\x86\Debug\StepGame.exe
+H:\StepGame\StepGame\obj\x86\Debug\StepGame.pdb
+H:\StepGame\StepGame\bin\Debug\StepGame.exe
+H:\StepGame\StepGame\bin\Debug\StepGame.pdb
+H:\StepGame\StepGame\obj\x86\Debug\StepGame.Form1.resources
+H:\StepGame\StepGame\obj\x86\Debug\StepGame.Properties.Resources.resources
+H:\StepGame\StepGame\obj\x86\Debug\StepGame.csproj.GenerateResource.Cache
+G:\StepGame\StepGame\obj\x86\Debug\StepGame.exe
+G:\StepGame\StepGame\obj\x86\Debug\StepGame.pdb
+G:\StepGame\StepGame\bin\Debug\StepGame.exe
+G:\StepGame\StepGame\bin\Debug\StepGame.pdb
+G:\StepGame\StepGame\obj\x86\Debug\StepGame.Form1.resources
+G:\StepGame\StepGame\obj\x86\Debug\StepGame.Properties.Resources.resources
+G:\StepGame\StepGame\obj\x86\Debug\StepGame.csproj.GenerateResource.Cache
+H:\StepGame\StepGame\obj\x86\Debug\StepGame.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.Form1.resources
+C:\Users\stud\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.Properties.Resources.resources
+C:\Users\stud\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.csproj.GenerateResource.Cache
+C:\Users\stud\Desktop\StepGame\StepGame\bin\Debug\StepGame.exe
+C:\Users\stud\Desktop\StepGame\StepGame\bin\Debug\StepGame.pdb
+C:\Users\stud\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.exe
+C:\Users\stud\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.pdb
+C:\Users\mrequ\Desktop\StepGame\StepGame\bin\Debug\StepGame.exe
+C:\Users\mrequ\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.Form1.resources
+C:\Users\mrequ\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.Properties.Resources.resources
+C:\Users\mrequ\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.csproj.GenerateResource.Cache
+C:\Users\mrequ\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.exe
+C:\Users\mrequ\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.pdb
+C:\Users\mrequ\Desktop\StepGame\StepGame\bin\Debug\StepGame.pdb
+C:\Users\mrequ\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\StepGame\StepGame\bin\Debug\StepGame.exe
+C:\Users\Роман\Desktop\StepGame\StepGame\bin\Debug\StepGame.pdb
+C:\Users\Роман\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.Form1.resources
+C:\Users\Роман\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.Properties.Resources.resources
+C:\Users\Роман\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.csproj.GenerateResource.Cache
+C:\Users\Роман\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.exe
+C:\Users\Роман\Desktop\StepGame\StepGame\obj\x86\Debug\StepGame.pdb
