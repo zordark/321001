@@ -1,0 +1,8 @@
+C:\Users\Роман\Desktop\StepGame\GameBattle\obj\x86\Debug\StepGame.exe
+C:\Users\Роман\Desktop\StepGame\GameBattle\obj\x86\Debug\StepGame.pdb
+C:\Users\Роман\Desktop\StepGame\GameBattle\bin\Debug\StepGame.exe
+C:\Users\Роман\Desktop\StepGame\GameBattle\bin\Debug\StepGame.pdb
+C:\Users\Роман\Desktop\StepGame\GameBattle\obj\x86\Debug\GameBattle.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\StepGame\GameBattle\obj\x86\Debug\StepGame.Form1.resources
+C:\Users\Роман\Desktop\StepGame\GameBattle\obj\x86\Debug\StepGame.Properties.Resources.resources
+C:\Users\Роман\Desktop\StepGame\GameBattle\obj\x86\Debug\GameBattle.csproj.GenerateResource.Cache

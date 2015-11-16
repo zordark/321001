@@ -1,0 +1,18 @@
+c:\users\mrequ\documents\visual studio 2013\Projects\BugRacer\BugRacer\bin\Debug\BugRacer.exe.config
+c:\users\mrequ\documents\visual studio 2013\Projects\BugRacer\BugRacer\bin\Debug\BugRacer.exe
+c:\users\mrequ\documents\visual studio 2013\Projects\BugRacer\BugRacer\bin\Debug\BugRacer.pdb
+c:\users\mrequ\documents\visual studio 2013\Projects\BugRacer\BugRacer\obj\Debug\BugRacer.csprojResolveAssemblyReference.cache
+c:\users\mrequ\documents\visual studio 2013\Projects\BugRacer\BugRacer\obj\Debug\BugRacer.Properties.Resources.resources
+c:\users\mrequ\documents\visual studio 2013\Projects\BugRacer\BugRacer\obj\Debug\BugRacer.csproj.GenerateResource.Cache
+c:\users\mrequ\documents\visual studio 2013\Projects\BugRacer\BugRacer\obj\Debug\BugRacer.exe
+c:\users\mrequ\documents\visual studio 2013\Projects\BugRacer\BugRacer\obj\Debug\BugRacer.pdb
+c:\users\mrequ\documents\visual studio 2013\Projects\BugRacer\BugRacer\obj\Debug\BugRacer.BugRacerForm.resources
+C:\Users\Роман\Desktop\BugRacer\BugRacer\bin\Debug\BugRacer.exe.config
+C:\Users\Роман\Desktop\BugRacer\BugRacer\bin\Debug\BugRacer.exe
+C:\Users\Роман\Desktop\BugRacer\BugRacer\bin\Debug\BugRacer.pdb
+C:\Users\Роман\Desktop\BugRacer\BugRacer\obj\Debug\BugRacer.BugRacerForm.resources
+C:\Users\Роман\Desktop\BugRacer\BugRacer\obj\Debug\BugRacer.Properties.Resources.resources
+C:\Users\Роман\Desktop\BugRacer\BugRacer\obj\Debug\BugRacer.csproj.GenerateResource.Cache
+C:\Users\Роман\Desktop\BugRacer\BugRacer\obj\Debug\BugRacer.exe
+C:\Users\Роман\Desktop\BugRacer\BugRacer\obj\Debug\BugRacer.pdb
+C:\Users\Роман\Desktop\BugRacer\BugRacer\obj\Debug\BugRacer.csprojResolveAssemblyReference.cache
