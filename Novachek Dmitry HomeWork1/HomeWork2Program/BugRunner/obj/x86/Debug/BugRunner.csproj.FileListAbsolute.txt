@@ -1,0 +1,7 @@
+E:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\BugRunner\BugRunner\bin\Debug\BugRunner.exe
+E:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\BugRunner\BugRunner\bin\Debug\BugRunner.pdb
+E:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\BugRunner\BugRunner\obj\x86\Debug\BugRunner.Form1.resources
+E:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\BugRunner\BugRunner\obj\x86\Debug\BugRunner.Properties.Resources.resources
+E:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\BugRunner\BugRunner\obj\x86\Debug\BugRunner.csproj.GenerateResource.Cache
+E:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\BugRunner\BugRunner\obj\x86\Debug\BugRunner.exe
+E:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\BugRunner\BugRunner\obj\x86\Debug\BugRunner.pdb

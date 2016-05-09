@@ -1,0 +1,8 @@
+C:\Users\stud\вижуал\TextMutation\bin\Debug\TextMutation.exe
+C:\Users\stud\вижуал\TextMutation\bin\Debug\TextMutation.pdb
+C:\Users\stud\вижуал\TextMutation\obj\x86\Debug\TextMutation.exe
+C:\Users\stud\вижуал\TextMutation\obj\x86\Debug\TextMutation.pdb
+E:\Users\Дмитрий\Desktop\TextMutation\obj\x86\Debug\TextMutation.exe
+E:\Users\Дмитрий\Desktop\TextMutation\obj\x86\Debug\TextMutation.pdb
+E:\Users\Дмитрий\Desktop\TextMutation\bin\Debug\TextMutation.exe
+E:\Users\Дмитрий\Desktop\TextMutation\bin\Debug\TextMutation.pdb
